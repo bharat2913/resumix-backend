@@ -1,0 +1,13 @@
+﻿{
+  "connectionString": "mongodb+srv://Manash2209:Manash2209@cluster0.rqqhion.mongodb.net/resumix?retryWrites=true&w=majority",
+  "secret": "RESUMEBUILDERSECURITYSTRINGTOGENRATETHENEWTOKENFORTHEUSER",
+  "emailFrom": "bs987143@gmail.com",
+  "smtpOptions": {
+    "host": "email-smtp.eu-central-1.amazonaws.com",
+    "port": 2587,
+    "auth": {
+      "user": "AKIAZNHT2ZXJ46GNW2UV",
+      "pass": "BLCyRgmbITOsElCTBpUpvIUJqPWRpIy5D8F/BWpG9JFb"
+    }
+  }
+}
